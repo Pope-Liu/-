@@ -11,6 +11,8 @@
     <modules>
         <module>01-Singleton</module>
         <module>02-Prototype</module>
+        <module>03-Factory</module>
+        <module>04-Builder</module>
     </modules>
 
 
