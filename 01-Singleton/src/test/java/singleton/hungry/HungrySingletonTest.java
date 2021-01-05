@@ -1,7 +1,6 @@
-package whu.pope.hungry;
+package singleton.hungry;
 
 import org.junit.jupiter.api.Test;
-import whu.pope.lazy.LazySingleton;
 
 /**
  * @author Pope

@@ -1,11 +1,11 @@
-package whu.pope.lazy;
+package singleton.lazy;
 
 /**
  * @author Pope
  * 懒汉式单例模式
  * 只有当需要的时候才创建
  * 注意！
- *      1.instance声明语句中的volatile与getInstance()方法的synchronized修饰符不能去掉，否则线程不安全
+ * 1.instance声明语句中的volatile与getInstance()方法的synchronized修饰符不能去掉，否则线程不安全
  */
 public class LazySingleton {
 

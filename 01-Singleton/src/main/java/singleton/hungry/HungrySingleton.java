@@ -1,4 +1,4 @@
-package whu.pope.hungry;
+package singleton.hungry;
 
 /**
  * @author Pope
